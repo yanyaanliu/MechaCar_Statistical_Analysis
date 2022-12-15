@@ -16,16 +16,21 @@ The r-squared value is 0.7149, which means that only 71% of mpg predictions are 
 
 ## Summary Statistics on Suspension Coils
 ![2](/Images/image2.png)
+<br/>
 ![3](/Images/image2.1.png)
 <br/>
-* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not? <br/>
 When looking at all manufactoring lots, the variance of 62.29 PSI does no exceed 100 variance PSI requiment. 
+<br/>
 Looking at each of the lots individually, lot 1 and lot 2 are below the variance limit (0.98 and 7.47 respectively). Lot 3, however, shows a variance of 170.29 which exceeds the 100 PSI limit and it drives the variance of the population down. 
 
 ## T-Tests on Suspension Coils 
-![4](/Images/allots.png)
+![4](/Images/alllots.png)
+<br/>
 ![5](/Images/lot1.png)
+<br/>
 ![6](/Images/lot2.png)
+<br/>
 ![7](/Images/lot3.png)
 <br/>
  Looking at the t-test from all lots, the p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis.
