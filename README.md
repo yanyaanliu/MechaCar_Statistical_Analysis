@@ -1,3 +1,4 @@
+### MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
 ![1](/Images/image1.png)
 <br/>
@@ -33,7 +34,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 <br/>
 ![7](/Images/lot3.png)
 <br/>
- Looking at the t-test from all lots, the p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis.
+ Looking at the t-test from all lots, the p-Value of 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis. <br/>
 In Lot 1 and Lot 2 case, we cannot reject the null hypothesis that there is no statistical difference between the observed sample mean and the population mean
  However for Lot 3, the p-Value is 0.04 which is lower than significance level(0.05). All indicating to reject the null hypothesis that this sample mean and the population mean are not statistically different.
  
